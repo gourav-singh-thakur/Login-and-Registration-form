@@ -18,6 +18,8 @@ position: absolute;
     padding :5px;
    background-color:white;
    position:relative;
+   overflow: hidden;
+  
 }
 .button-box
 {
